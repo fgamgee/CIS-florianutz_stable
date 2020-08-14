@@ -1,3 +1,5 @@
+This is copied from https://github.com/florianutz/Ubuntu1804-CIS/tree/2.2.0  V 2.2.0 as it is tested with Jitsi-Meet-Secure-Server.  Will be updated after Utz's updates are tested with Jitsi-Meet.
+
 Ubuntu 18.04 CIS STIG
 ================
 
